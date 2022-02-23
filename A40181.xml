@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exhortation to all that profess themselves Christians and say the scripture is their rule for their life doctrine and practice / by George Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40181</idno>
+            <idno type="STC">Wing F1816</idno>
+            <idno type="STC">ESTC R30369</idno>
+            <idno type="EEBO-CITATION">11304048</idno>
+            <idno type="OCLC">ocm 11304048</idno>
+            <idno type="VID">47370</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40181)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47370)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1461:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exhortation to all that profess themselves Christians and say the scripture is their rule for their life doctrine and practice / by George Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Brian Matzke</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47370:1"/>
+            <pb facs="tcp:47370:1"/>
+            <p>AN EXHORTATION To all them that Profeſs Themſelves CHRISTIANS, AND SAY, <hi>The Scripture is their Rule for their Life, Doctrine and Practice.</hi>
+            </p>
+            <p>
+               <hi>By</hi> George Fox.</p>
+            <q>
+               <p>Chriſt is become of none effect unto you. Whoſoever of you are juſti<g ref="char:EOLhyphen"/>fied by the Law, are fallen from Grace, <bibl>
+                     <hi>Gal. 5.4.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <q>
+               <p>How turn you again to the Weak beggarly Elements, whereunto you deſire again to be in Bondage! ye obſerve Dayes, and Moneths, and Times and Years; I am afraid of you, leſt I have beſtowed upon you Labour in vain, <bibl>
+                     <hi>Gal. 4.9, 10, 11.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <q>
+               <p>The <hi>Bereans</hi> were Noble, and ſearched the Scriptures daily, to ſee whether thoſe things were ſo, as the Apoſtles preached, <bibl>
+                     <hi>Acts 17.11.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <q>
+               <p>Let no man judge you therefore in Meats, or Drinks, or in Reſpect of an Holy Day, or of New Moons, or of the Sabbath-dayes, which are a Shadow of things to come; but the Body is of Chriſt, <bibl>
+                     <hi>Col. 2.16, 17.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>Printed in the Year 1680.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:47370:2" rendition="simple:additions"/>
+            <head>Here you may ſee in this little Book as followeth:</head>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> THat none of the Holy Men of God in the Old Covenant did call an <hi>Outward Tabernacle,</hi> or <hi>Temple,</hi> or <hi>Sy<g ref="char:EOLhyphen"/>nagogue</hi> after the Name of any <hi>Saint.</hi>
+               </item>
+               <item>
+                  <hi>2dly,</hi> And that alſo in the New Covenant Chriſt and the Apoſtles did not call any of their <hi>Meeting-houſes</hi> or <hi>Meeting-places</hi> after their <hi>Own</hi> Names or other <hi>Saints</hi> Names.</item>
+               <item>
+                  <hi>3dly,</hi> That Chriſt and the Apoſtles did not ſet up <hi>Holy Dayes,</hi> and their own <hi>Birth-Dayes,</hi> and other <hi>Saints Dayes;</hi> and ſet up Courts, and <hi>compelled people to keep them.</hi>
+               </item>
+               <item>
+                  <hi>4thly,</hi> And likewiſe, How Chriſt and his Apoſtles did not call an <hi>Outward Houſe</hi> a <hi>Church</hi> and <hi>Congregation.</hi>
+               </item>
+               <item>
+                  <hi>5thly,</hi> How that neither Chriſt nor the Apoſtles, nor the Holy Men of God, did give the many Names to the <hi>Moneths</hi> and <hi>Dayes,</hi> as them called <hi>Chriſtians</hi> do now.</item>
+               <item>
+                  <hi>6thly,</hi> And alſo, How that a Curſe was pronounced upon them that did not bring their <hi>Tythes</hi> to the Store-houſe in the Old Cove<g ref="char:EOLhyphen"/>nant. And how the Prieſts and Teachers, that call themſelves <hi>Chriſtians,</hi> have exceeded that Curſe in the Old Covenant, in caſting many into Priſon, and keeping ſome therein till Death, becauſe they could not give them <hi>Tythes</hi> and <hi>Maintenance</hi> in the New Covenant, knowing that Chriſt hath changed the Prieſthood, and the Law and Commandment, that gave <hi>Tythes</hi> and took <hi>Tythes;</hi> and ſaid to his Diſciples, <hi>Freely you have received, Freely give.</hi>
+               </item>
+               <item>
+                  <hi>7thly,</hi> And likewiſe concerning ſuch as ſay, <hi>The Scripture is their Rule to walk by; but how contrary to Scripture they have walked.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:47370:2"/>
+            <head>An <hi>Exhortation</hi> to all them that Pro<g ref="char:EOLhyphen"/>feſs themſelves <hi>Chriſtians,</hi> and ſay, <hi>The Scripture is their Rule for their Life, Doctrine and Practice.</hi>
+            </head>
+            <p>
+               <hi>Firſt,</hi> WHERE did ever any in the old World, before the Flood, or from <hi>Noah</hi>'s time to <hi>Abraham, Iſaac</hi> and <hi>Jacob,</hi> keep and obſerve the Dayes of their Birth, or the Dayes of the Death of their Progeni<g ref="char:EOLhyphen"/>tors, and call them <hi>Holy Dayes?</hi> Or where did any in the dayes of the old Covenant, or the old Teſtament, unto the dayes of Chriſt, throughout all the Fathers, and Prophets, and Holy Men of God, keep either the dayes of the Birth or Death of any of the Patri<g ref="char:EOLhyphen"/>archs, Fathers or Prophets, and call them <hi>Holy Days?</hi> or had their Courts or Paritors to trouble People for working upon the dayes of the Birth, or dayes of the Death of any of the Patriarchs or Fathers, &amp; call them <hi>Holy dayes?</hi> But on the contrary, is it not ſaid and com<g ref="char:EOLhyphen"/>manded by the Lord, <hi>Six Days ſhalt thou labour, and do all thy Work that thou haſt to do?</hi> Ex. 20.9. And in <hi>Ex.</hi> 23. it is ſaid, <hi>Six Dayes ſhalt thou do thy Work.</hi> And doth not the Scripture ſay in many other places, <hi>There are ſix days wherein men ought to work, &amp;c?</hi>
+            </p>
+            <p>And now, if you do profeſs the new Covenant,
+<pb n="4" facs="tcp:47370:3"/>and that you are <hi>Chriſtians,</hi> and though there was no ſuch Practice of Obſerving the dayes of the Birth or Death of any of the Fathers or Prophets, either in the old World before the Flood, or after, in the days of the old Covenant, nor in the dayes of Chriſt and the Apoſtles in the new Covenant; then how can you, that profeſs the Scriptures to be your Rule for Life and Doctrine, prove your Practice for theſe things by the Scriptures? &amp;c.</p>
+            <p>For where did ever Chriſt or the Apoſtles com<g ref="char:EOLhyphen"/>mand, that their Followers ſhould obſerve and keep the days of their Birth, or the days of their Death, or bid to call them <hi>Holy Dayes;</hi> and ſet up Courts, or Paritors to ſummon people into their Courts, &amp; fine them, or impriſon them for working upon any of the dayes of their Birth, or of their Death? Or did Chriſt ever give a Command, that any ſhould keep the day of his Birth, or Aſcenſion, or the day of the Purification of <hi>Mary</hi> his Mother? Or did Chriſt give a Command, that any ſhould obſerve and keep the day of <hi>John Baptiſt</hi>'s Birth or Death? Or did the A<g ref="char:EOLhyphen"/>poſtles ever give a Command, that any ſhould keep the dayes of <hi>Steven</hi> or <hi>James</hi>'s Birth or Death, who were Martyred in their dayes, before their deceaſe? Or did ever <hi>Peter,</hi> and <hi>John,</hi> and <hi>Matthew,</hi> and <hi>Luke,</hi> and <hi>Mark,</hi> and the reſt of the Apoſtles give a Com<g ref="char:EOLhyphen"/>mand, that the <hi>Chriſtians</hi> after their deceaſe ſhould obſerve their dayes of Birth or Death? Or did ever <hi>Paul</hi> write to <hi>Timothy</hi> or <hi>Titus,</hi> which were Elders or Biſhops, and the reſt of the Apoſtles and Elders in all their Councels, which gave out their Decrees to the Churches; in all their Decrees and Councils, did
+<pb n="5" facs="tcp:47370:3"/>they give forth any ſuch Order, Command or Decree in all their Epiſtles and Writings in the Bible, that any ſhould obſerve and keep the dayes of the Birth or Death of any of the Apoſtles, or Diſciples, or Evan<g ref="char:EOLhyphen"/>geliſts, or Paſtors and Teachers? and to call them <hi>Holy Days,</hi> and ſet up Courts, and cite all that ſhould work on thoſe dayes? and that they ſhould be called after the Names of the Saints, or Prophets, and A<g ref="char:EOLhyphen"/>poſtles? and that they ſhould be ſummoned to their Courts, and there fined for not obſerving and keeping the dayes of their Birth or Death? Nay, is not God and Chriſt more diſhonoured upon thoſe dayes, which you call <hi>Holy Dayes,</hi> than any other dayes of the Week, by Looſneſs, Drunkenneſs, Vain Sports, Playes, Pleaſures, Wantonneſs, and almoſt all man<g ref="char:EOLhyphen"/>ner of Evil committed upon thoſe dayes, which you call <hi>Holy Dayes?</hi>
+            </p>
+            <p>And the Apoſtle ſaith to the <hi>Galatians, But now af<g ref="char:EOLhyphen"/>ter that ye have known God, or rather are known of God; how turn you again to the Weak and Beggarly Elements, whereunto ye deſire again to be in Bondage? ye obſerve Dayes, and Moneths, and Times, and Years; I am afraid leſt I have beſtowed upon you Labour in vain, &amp;c.</hi>
+            </p>
+            <p>Now is not the Labour of the Apoſtles beſtowed in vain upon you, who run into the Obſervation of Dayes, Times, Moneths and Years; and not only ſo, but ſet up your Courts, and Paritors to cite and ſummon People to them, that do not obſerve your <hi>Holy Dayes,</hi> as you call them, and trouble and fine peo<g ref="char:EOLhyphen"/>ple about it, rather to get Money from them, than to <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ring them into Truth?</p>
+            <p>And you ſay, and ſet forth upon your Steeple houſe-Walls,
+<pb n="6" facs="tcp:47370:4"/>and print, that <hi>Six dayes men muſt Labour,</hi> as in the Ten Commandments the Lord commands; and yet do not you in the ſame places (your Steeple-houſes) give notice or warn all people, <hi>to keep and obſerve the Day of the Birth, or the Day of the Death of ſuch a Saint?</hi> And tell people, <hi>that they muſt keep Chriſt's Nativity-Day,</hi> or <hi>St. John's Day,</hi> and <hi>Peter,</hi> and <hi>Paul,</hi> and <hi>Steven's Dayes?</hi> &amp;c. and yet ſay, <hi>Six Dayes you muſt Labour:</hi> Is not this Contradiction, and con<g ref="char:EOLhyphen"/>trary to the Command of God, and no Command of Chriſt, nor his Apoſtles?</p>
+            <p>And this your Practice you cannot make good, nei<g ref="char:EOLhyphen"/>ther out of the old nor new Teſtament, &amp;c.</p>
+            <p>And therefore be not offended with us, if we ſearch the Scriptures, which you ſay <hi>is your Rule for your Life, Doctrine and Practice;</hi> for therein we cannot find, that they do maintain or hold forth either your Life, Doctrine or Practice in theſe things.</p>
+            <p>Therefore be not offended at us, becauſe we cannot follow you in the Obſervation of thoſe things, which you have no Warrant for in the Scriptures of the old or new Teſtament.</p>
+            <p n="2">2dly, Where did ever any of the Patriarchs, Fa<g ref="char:EOLhyphen"/>thers, Prophets or Apoſtles, in the old Teſtament, either before the Flood, or before the Law, or in the time of the old Law and Covenant, call any of their Meeting-houſes Synagogues, Tabernacles, Sanctua<g ref="char:EOLhyphen"/>ries, Temple, after any of the Patriarchs, Fathers, Prophets, or the Holy Men or Women's Names? You that ſay, the Scripture is your Rule for your Practice and Life, ſhew one Example for your ſo do<g ref="char:EOLhyphen"/>ing in all the old Teſtament, where ever they called
+<pb n="7" facs="tcp:47370:4"/>any of their Meeting-houſes, Synagogues, Taberna<g ref="char:EOLhyphen"/>cles, Temple, Sanctuaries, after any of the Patriarchs or Prophets Names, who ſay, the <hi>Scripture is your Rule for Life, Doctrine and Practice,</hi> as is before ſaid?</p>
+            <p>Or in the dayes of the new Teſtament, where did ever Chriſt or any of the Apoſtles or Diſciples call any of their Meeting-houſes, or Places where Chriſt and his Diſciples met in, whilſt he was with them in the dayes of his Fleſh; or after, when he was riſen, as long as the Apoſtles and Diſciples of Chriſt lived upon the Earth, where did they call any of the Houſes they met in, by Chriſt's Name, or the Virgin <hi>Mary</hi>'s Name, or any of the Apoſtles or Saints Names?</p>
+            <p>For it is ſaid, <hi>Paul dwelt two whole years in his own hired Houſe, and received all that came unto him, teaching thoſe things that concerned the Lord Jeſus Chriſt.</hi>
+            </p>
+            <p>Now here <hi>Paul</hi> made his own hired Houſe a Meet<g ref="char:EOLhyphen"/>ing-houſe to preach in; he doth not call his Meet<g ref="char:EOLhyphen"/>ing-houſe by the Name of <hi>St. Peter</hi> or St. <hi>Paul</hi>'s <hi>Houſe,</hi> or <hi>St. John</hi>'s, or <hi>St. James,</hi> or <hi>St. Bartholomew,</hi> or <hi>St. Thomas,</hi> or the like.</p>
+            <p>And the Apoſtle <hi>Paul</hi> in <hi>Rom.</hi> 16. greeteth his Fol<g ref="char:EOLhyphen"/>low-helpers in Chriſt Jeſus, <hi>Priſcilla</hi> and <hi>Aquila,</hi> and the Church that was in their Houſe.</p>
+            <p>Now the Apoſtle doth not call their Houſe the Church; but the People, that were in it, he calls the Church: neither doth he call their Houſe <hi>St. Pe<g ref="char:EOLhyphen"/>ter</hi> or <hi>St. Paul's Church,</hi> or <hi>St. Priſcilla</hi> or <hi>Aquila's Church.</hi>
+            </p>
+            <p>Likewiſe in the 1 <hi>Cor.</hi> 16. the Apoſtle ſalutes the Church which is in their Houſe: he doth not call it <hi>St. Andrew's,</hi> or <hi>St. Margaret's,</hi> or <hi>St. Katherines,</hi> or <hi>St. Mary's,</hi> or the like.</p>
+            <pb n="8" facs="tcp:47370:5"/>
+            <p>And <hi>Paul</hi> writes to the <hi>Coloſſians,</hi> and ſaith, Luke <hi>the beloved Phyſician greeteth you; ſalute the Brethren in</hi> Laodicea, <hi>and</hi> Nymphas, <hi>and the Church which is in his Houſe.</hi> Here he gives it not the Title of <hi>St. Mat<g ref="char:EOLhyphen"/>thew's,</hi> or <hi>St. Mark's,</hi> or <hi>St. Luke's,</hi> or <hi>St. Andrew's,</hi> or the like.</p>
+            <p>And the Apoſtle writes to <hi>Philemon,</hi> &amp; to <hi>Aphia,</hi> and to <hi>Archippus,</hi> and to the Church in his Houſe. Here he doth not call the Houſe the Church; but the Church was the People, which were in their Houſe. And the Apoſtle doth not give the Title of <hi>St. Thomas,</hi> or <hi>St. Peter,</hi> or <hi>St. Paul</hi> to the Houſe.</p>
+            <p>And <hi>John</hi> writes to the ſeven Churches in <hi>Aſia;</hi> and he doth not name them by <hi>St. Peter,</hi> or <hi>St. Andrew,</hi> or <hi>St. Paul,</hi> or <hi>St. Mary,</hi> or <hi>St. Margrets;</hi> but to the Seven Churches, or Seven Congregations of the Saints.</p>
+            <p>And now you ſay, <hi>the Scripture is your Rule for your Life, Practice and Doctrine;</hi> and have been offended at us the People of God in Scorn called <hi>Quakers,</hi> be<g ref="char:EOLhyphen"/>cauſe we cannot give thoſe Titles to Houſes which you have builded, as you and your Fore-Fathers have done. For we, like the Noble <hi>Bereans,</hi> have ſearch<g ref="char:EOLhyphen"/>ed the Scriptures, and cannot find neither in the old nor new Teſtament, that ever the Patriarchs, Pro<g ref="char:EOLhyphen"/>phets, Chriſt, the Apoſtles or Diſciples did ever give ſuch Titles to their Meeting-houſes, as before<g ref="char:EOLhyphen"/>mentioned, as you have done to yours. And there<g ref="char:EOLhyphen"/>fore be not angry with us, becauſe we cannot follow you in your Practices, which you cannot make good by the Scripture of the old and new Teſtament.</p>
+            <p>And you that call your ſelves <hi>Chriſtians,</hi> had you
+<pb n="9" facs="tcp:47370:5"/>not better mind the Lives of the Saints, and the Life of Chriſt Jeſus in his Grace and Truth, Light, Pow<g ref="char:EOLhyphen"/>er and Spirit in your Hearts, and teach all your Peo<g ref="char:EOLhyphen"/>ple to do the ſame, rather than to obſerve the Dayes of their Birth or Death; and to give ſuch Titles to Houſes, which Chriſt nor his Apoſtles never did. So that they and you may come to Chriſt's Eternal Day, and in him to know the Reſt and Sabbath, and to keep that Holy Eternal Day in his Eternal Light and Spirit, to the Glory of the Eternal God, and his Son Chriſt Jeſus, <hi>Amen.</hi>
+            </p>
+            <p n="3">3dly, And in <hi>Malachy</hi> 3. he ſaith, <hi>Will a Man Rob God? yet ye have robbed me, ſaith the Lord. But ye ſay, Wherein have we robbed thee? In Tythes and Offerings; ye are curſed with a Curſe: For ye have robbed me, even this whole Nation. Bring ye therefore all the Tythes into the Store-Houſe, that there may be Meat in my Houſe; and prove me now therewith, ſaith the Lord of Hoſts, if I will not open to you the Windows of Heaven, and pour you out a Bleſſing, &amp;c.</hi>
+            </p>
+            <p>Now mark; this was in the old Covenant, and old Teſtament, when Tythes and Offerings were commanded; for here they were both joyned toge<g ref="char:EOLhyphen"/>ther: Theſe <hi>Tythes and Offerings</hi> were to be carryed into the Store-houſe, that there might be Meat in the Houſe for the Prieſts, and <hi>Levites,</hi> and Widows, and Fatherleſs: For the Prieſts and <hi>Levites</hi> had no Lot of the Land; but the Tythes and part of the Offerings, was their Portion: for the <hi>Tythes</hi> were the Lord's, and the <hi>Levites</hi> were the Lord's; and he gave the <hi>Tythes</hi> or <hi>Tenths</hi> of the other Tribes to them; and the Tenths of the Tenths were to be offered up to
+<pb n="10" facs="tcp:47370:6"/>the High Prieſt. So it was reckoned a Robbing of God, by ſuch as did not bring in their <hi>Tythes,</hi> which were the Lord's, which he gave unto the <hi>Levites</hi> and <hi>Prieſts;</hi> yea, the whole Nation of the <hi>Jews</hi> robbed God, becauſe they did not bring in their <hi>Tythes</hi> and <hi>Offerings</hi> into the Store-houſe; and therefore they were curſed with a Curſe, and that was their Puniſh<g ref="char:EOLhyphen"/>ment, and Puniſhment it was enough in the time of the Law and old Covenant.</p>
+            <p>Now the Prieſts did not go, and take this whole Nation, the Eleaven Tribes, and caſt them into Pri<g ref="char:EOLhyphen"/>ſon, and ſpoil their Goods, and take Treble Damage of them; you do not read they did ſo in the old Te<g ref="char:EOLhyphen"/>ſtament, that any of the Patriarchs, or any of the Prophets, Kings, Magiſtrates or Prieſts, did caſt any into Priſon, and there keep them until Death, becauſe they would not bring in their <hi>Tythes</hi> in the time of the Law, &amp; according to the Law into the Store-houſe; which if they did not do it, they were curſed with a Curſe, as <hi>Malachy</hi> ſaith. And if they did bring their <hi>Tythes</hi> into the Store houſe, that there might be Meat enough for the <hi>Prieſts,</hi> and <hi>Levites,</hi> and <hi>Widows,</hi> and <hi>Fatherleſs;</hi> then the Lord opened the Windows of Heaven, and poured out a Bleſſing upon them.</p>
+            <p>And did not this Law ſerve till the Seed Chriſt came? who hath changed this Prieſthood, that was made by the Law, and had a Commandment to take <hi>Tythes,</hi> according to the Law, which Commandment Chriſt hath diſannulled, and by the one offering up of himſelf, once for all the Offerings, hath put down the Prieſts that offered, and their Offerings and Main<g ref="char:EOLhyphen"/>tenance, and hath taken away the firſt Covenant, and
+<pb n="11" facs="tcp:47370:6"/>eſtabliſhed the ſecond, who became a Curſe, to take away the Curſe; and made under the Law, to redeem us from under the Law of Works: And were not <hi>Tythes</hi> and <hi>Offerings</hi> under the Law of Works, <hi>Do this, and Live?</hi> if not, they were Robbers, and Curſt. And doth not Chriſt in his Goſpel and new Covenant ſay, <hi>Believe, and be ſaved?</hi>
+            </p>
+            <p>And Chriſt, when he ſent forth his Twelve and Seventy Diſciples without a Bag or Staff, ſaid, <hi>Free<g ref="char:EOLhyphen"/>ly you have Received, Freely Give:</hi> And therefore Chriſt putting down the Prieſthood, with his Offer<g ref="char:EOLhyphen"/>ings, and other Ceremonies, which the Law com<g ref="char:EOLhyphen"/>manded, and <hi>Tythes</hi> and <hi>Offerings,</hi> which were his Maintenance or Salary, and commanded under the old Covenant by the Law, under the Penalty of a Curſe, where did ever Chriſt alter his Command? or the Apoſtles go about to alter his Command, which was, <hi>Freely you have Received, Freely Give,</hi> in his new Covenant? And where did ever Chriſt to his Apo<g ref="char:EOLhyphen"/>ſtles, or his Apoſtles to others, command or direct, that they ſhould take or demand <hi>Tythes,</hi> or the peo<g ref="char:EOLhyphen"/>ples <hi>Tenths</hi> for preaching the Goſpel? as you called <hi>Chriſtians</hi> have done, ſince the Apoſtles dayes, which ſay, <hi>The Seripture is your Rule for your Life, Doctrine and Practice.</hi>
+            </p>
+            <p>Therefore ſhew us out of the Scripture of the new Teſtament, where ever they did caſt any into Priſon, for not giving them <hi>Tythes</hi> and <hi>Offerings,</hi> as you have done; and hale them into Courts, Aſſizes and Seſſi<g ref="char:EOLhyphen"/>ons: ſhew one Example in all the Scripture, &amp; be not Angry at us, becauſe we ſearch the Scriptures, as thoſe Noble <hi>Bereans</hi> did, to ſee whether theſe things be ſo in
+<pb n="12" facs="tcp:47370:7"/>the Scriptures of Truth, which you preach up for Doctrine and Practice. And becauſe we cannot find them in the Scripture, and follow you, and uphold you in theſe things, which you cannot prove by Scrip<g ref="char:EOLhyphen"/>ture for your Doctrine and Practice, therefore are you Angry, and perſecute us, becauſe we do not fol<g ref="char:EOLhyphen"/>low you in your Doctrine and Practice, which we cannot find in Scripture, that you have ſaid <hi>is your Rule.</hi>
+            </p>
+            <p>And why cannot the Curſe of the old Covenant ſerve your turns? but you muſt exceed the old Law, to hale people before your Courts, and caſt them in to Priſon, and there keep ſome unto Death, and ſpoil their Goods, that cannot give you <hi>Tythes</hi> according to the old Law, ſuch who are the true <hi>Chriſtians,</hi> and Children of the new Covenant, and are the faithful Witneſſes of Jeſus Chriſt, who hath redeemed them from under the Law, and hath taken away the Curſe of the Law, and now do not ſeek to be juſtified by the Works of the Law, but by Faith in Chriſt Jeſus. I ſay, why is not the Curſe in the old Law ſufficient for all the Prieſts and Biſhops in <hi>Chriſtendom,</hi> if they will be Prieſts of the old Law, and Teachers of the old Law, and do the Works of the old Law of <hi>Moſes,</hi> which he that thinks to be juſtified by the Law, is ju<g ref="char:EOLhyphen"/>ſtified by that, by which no Fleſh ſhall be ſaved, as the Apoſtle ſaith, and is fallen from Grace. And there<g ref="char:EOLhyphen"/>fore, if ye will have the Law of Commandments, that commands <hi>Tythes</hi> to the <hi>Prieſts,</hi> and their <hi>Offer<g ref="char:EOLhyphen"/>ings,</hi> I ſay again, Why is not the Curſe ſufficient for you, to pour out your Curſes upon the People, which do not bring in their <hi>Tythes</hi> and <hi>Offerings</hi> (not into the
+<pb n="13" facs="tcp:47370:7"/>Prieſts Barn, but) into the Store-houſe, as God com<g ref="char:EOLhyphen"/>mands, and not for the Prieſts only, but for the Wi<g ref="char:EOLhyphen"/>dows and Fatherleſs alſo? Surely your Curſe ſhould be ſufficient, and not to ſpoil their Goods, and im<g ref="char:EOLhyphen"/>priſon them to Death too: this is more than the Law commands in the old Covenant.</p>
+            <p>And is it not contrary to the Law of the old Cove<g ref="char:EOLhyphen"/>nant, that the <hi>Prieſts</hi> and <hi>Levites,</hi> that were to receive the <hi>Tythes,</hi> for them to have any Lot of the Land? And do not they that pay <hi>Tythes</hi> and <hi>Offerings</hi> to the <hi>Prieſts,</hi> come under the Law, and ſo under the Curſe; and ſo come from under the Bleſſing of the Goſpel, to under the Curſe of the Law? For is it not written, <hi>Curſed is every one that continueth not in all things that is written in the Book of the Law, to do them?</hi> Gal. 3. <hi>But no man is juſtified by the Works of the Law in the ſight of God, it is evident: For the Juſt ſhall live by his Faith: And the Law is not of Faith. And Chriſt hath redeemed us from under the Curſe of the Law, being made a Curſe for us, that the Bleſſing of</hi> Abraham <hi>might come upon the</hi> Gentiles <hi>through Jeſus Chriſt, and that we might receive the Promiſe of the Spirit through Faith.</hi> So in theſe your Practices, though you ſay, <hi>The Scripture is your Rule for your Life, Doctrine and Practice;</hi> but in this the Scripture of the new Teſtament is not your Rule for theſe things: Let all the Children of the new Covenant, and true <hi>Chriſtians,</hi> ſearch the Scriptures, according to the Practice of the noble <hi>Bereans,</hi> and ſee whether the Scripture hath been your Rule in theſe your Practices and Doctrine in the new Covenant? But if you did not caſt any into Priſon, or ſpoil the Goods of ſuch as did not pay you Tythes &amp; Offerings,
+<pb n="14" facs="tcp:47370:8"/>nor hale them before your Courts; but only ſtood up, and poured out your Curſes upon ſuch, according to the Law, that did not bring in your Tythes and Offer<g ref="char:EOLhyphen"/>ings into the Store-houſe, according to the Law, and that you had no other Portion in the Land but <hi>Tythes</hi> and <hi>Offerings,</hi> &amp;c? We do tell you, that Chriſt hath ended the Law, and hath redeemed us from under the Law, and became a Curſe, and hath redeemed us out of the Curſe of the Law, and has ended that Prieſt<g ref="char:EOLhyphen"/>hood with all his Ceremonies. And Chriſt Jeſus ſaith in his new Covenant, <hi>Bleſs, and Curſe not;</hi> and the A<g ref="char:EOLhyphen"/>poſtle ſaith the ſame. So we do preach the free Go<g ref="char:EOLhyphen"/>ſpel &amp; free Grace to you, and turn you from the <hi>Dark<g ref="char:EOLhyphen"/>neſs</hi> to the <hi>Light,</hi> and from the <hi>Power of Satan</hi> unto <hi>God,</hi> that you may ſee the new Covenant of Light, Life and Grace, and practiſe it.</p>
+            <p>And Chriſt in his new Covenant ſaith, and com<g ref="char:EOLhyphen"/>mandeth his Miniſters, <hi>Freely you have received, freely give.</hi> And the Apoſtle's Glory was, <hi>To keep the Goſpel without Charge, who coveted no man's Silver, nor Gold, nor Apparel, &amp;c.</hi> And he ſaid, <hi>He had declared unto the Church the whole Counſel of God.</hi> And yet he never declared to any in all his Writings, Decrees or Epiſtles, or any other of the Apoſtles, <hi>That the Miniſters of the Goſpel ſhould take Tythes and Offerings, and hale them into Courts, and ſpoil their Goods, and caſt them into Priſon until Death, if they would not give them Tythes and Offerings, or Curſe them them that did not bring in their Tythes into the Store<g ref="char:EOLhyphen"/>houſe,</hi> according to the old Law of <hi>Moſes</hi> in the old Co<g ref="char:EOLhyphen"/>venant; for they were redeemed from under the Law and the Curſe.</p>
+            <p>And likewiſe, he never declared in his whole Coun<g ref="char:EOLhyphen"/>ſel
+<pb n="15" facs="tcp:47370:8"/>of God, <hi>That they ſhould keep the Dayes of the Birth or Death of any of the Saints, and call them</hi> Holy Days.</p>
+            <p>And he never declar'd in all his Counſel of God, <hi>That they ſhould name their Meeting-houſes after the Saints Names.</hi>
+            </p>
+            <p>Alſo, he never declared in his whole Counſel of God, <hi>That Children ſhould have God-fathers and God-mo<g ref="char:EOLhyphen"/>thers; and that Prieſts ſhould ſprinkle them with outward Water, and ſign them with the Sign of the Groſs:</hi> But ſaid, <hi>There was one Faith, and one Baptiſm;</hi> and that <hi>they were baptiſed into one Body with one Spirit, and ſo made to drink into one Spiris; and they that were baptized into Chriſt, had put him on.</hi>
+            </p>
+            <p>Likewiſe, the Apoſtle never declared in his whole Counſel of God, That the Saints ſhould obſerve a Time of <hi>Lent,</hi> and <hi>abſtain from Fleſh,</hi> and <hi>eat Fiſh;</hi> or that the Saints ſhould obſerve the Time of <hi>Eaſter,</hi> which was the time of the <hi>Jews Paſſover;</hi> or that they ſhould obſerve the Time of <hi>Whitſuntide,</hi> called <hi>Pen<g ref="char:EOLhyphen"/>tecoſt;</hi> or that they ſhould obſerve and keep Chriſt's Birth Day, and call it <hi>Chriſtmaſs-day,</hi> &amp;c.</p>
+            <p>Now if you ſay, <hi>The Apoſtles in their Decrees or Epi<g ref="char:EOLhyphen"/>ſtles did command the Church to do and obſerve ſuch things;</hi> then, I pray you, tell us where it is written, that we, like the noble <hi>Bereans,</hi> may ſearch for it; And be not Angry nor Offended with us, becauſe we do not fol<g ref="char:EOLhyphen"/>low you in theſe things, who ſay, <hi>The Scripture is your Rule for Life, Doctrine and Practice,</hi> and yet cannot make theſe your Practices and Doctrine good by Scripture.</p>
+            <p>And now if Chriſt and the Apoſtle and Apoſtles, who declar'd the whole Counſel of God to the Church in their dayes; if they declared none of theſe things
+<pb n="16" facs="tcp:47370:9"/>before-mentioned, which you practiſe, to be the Coun<g ref="char:EOLhyphen"/>ſel of God: then have not you ſet them up in that ſpirit, that is apoſtatized from the Power and Spirit the Apoſtles were in? and have compelled others to follow your Practices, which you have commanded and taught for Doctrine, which Chriſt and the Apo<g ref="char:EOLhyphen"/>ſtles did not; which Practices you cannot make good by Chriſt and the Apoſtles Doctrine, in the Scriptures of Truth of the new Teſtament. And therefore, how can you expect, that we ſhould follow you: For the Apoſtle ſaith, <hi>Follow us as we follow Chriſt.</hi> So accor<g ref="char:EOLhyphen"/>ding to the Apoſtle's teaching, we are to follow you no farther than you follow Chriſt; you cannot expect it, if you own Chriſt and the Apoſtles, and their Do<g ref="char:EOLhyphen"/>ctrine; for Chriſt ſaith, <hi>Freely you have received, freely give;</hi> and this is his Command, which is to be obey'd; and it is obeyed by all them, that receive their Gifts for the Work of their Miniſtry, which is for the perfect<g ref="char:EOLhyphen"/>ing of the Saints, from him that is aſcended up on high.</p>
+            <p>But they that have received their Natural Gifts be<g ref="char:EOLhyphen"/>low, cannot endure to hear of Chriſt's Doctrine, who aſcended up on high, who gave Gifts unto men for the Work of the Miniſtry, and commanded them, <hi>Freely they had received, freely they ſhould give it again.</hi>
+            </p>
+            <p>And where did the Apoſtle, who ſaid, <hi>He had decla<g ref="char:EOLhyphen"/>red unto the Church the whole Counſel of God,</hi> declare, That the Saints and <hi>Chriſtians</hi> ſhould call the Dayes of the Week by the Names of <hi>Munday, Tueſday, Wedneſ<g ref="char:EOLhyphen"/>day, Thurſday, Fryday, Saturday</hi> and <hi>Sunday,</hi> and the like? which were the Names of the <hi>Heathens Gods,</hi> after whom the <hi>Heathens</hi> called the Dayes.</p>
+            <pb n="17" facs="tcp:47370:9"/>
+            <p>Or where did the Apoſtle declare, that the <hi>Chriſti<g ref="char:EOLhyphen"/>ans</hi> ſhould call the Moneths by the Names of <hi>January, May, June, July</hi> and <hi>Auguſt, &amp;c?</hi> which were Names given by the <hi>Heathens</hi> and <hi>Emperors.</hi>
+            </p>
+            <p>And where did the Apoſtle, that ſaid, <hi>He had decla<g ref="char:EOLhyphen"/>red unto the Church the whole Counſel of God,</hi> declare or direct, that they ſhould call any of the days <hi>Candle<g ref="char:EOLhyphen"/>maſs, Michaelmaſs-day, Martinmaſs-day, Chriſtmaſs-day,</hi> and <hi>Lammas<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>day,</hi> and the like?</p>
+            <p>You that ſay, <hi>The Scripture is your Rule for your Life, Doctrine and Practice,</hi> bring it forth, and be not Angry with us, who cannot follow you in theſe things, who never yet produced any Scripture for theſe your Pra<g ref="char:EOLhyphen"/>ctices.</p>
+            <closer>
+               <signed>
+                  <hi>From him who loveth the Ancient Primitive Truth, and True</hi> Chriſtianity, <hi>that Chriſt taught, and the Apo<g ref="char:EOLhyphen"/>ſtles and Primitive Church lived in; and deſires that all may come into it, and live and walk in it. G. Fox.</hi>
+               </signed>
+               <dateline>
+                  <date>The 18th of the 9th Moneth, 1679.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="18" facs="tcp:47370:10"/>
+            <head>Poſtſcript.</head>
+            <p>THE Apoſtle ſaith in <hi>Rom.</hi> 16. <hi>Greet</hi> Priſcilla <hi>and</hi> Aquila, <hi>my Fellow-Helpers in Chriſt-Jeſus, which have for my Life laid down their own Necks; unto whom not I only give Thanks, but alſo all the Congregati<g ref="char:EOLhyphen"/>ons of the</hi> Gentiles. <hi>Likewiſe greet the Congregation, that is in their Houſe.</hi> Here the old Tranſlation calls the <hi>Church</hi> a <hi>Congregation,</hi> that was in their Houſe; and not the outward Houſe a Church or Congregati<g ref="char:EOLhyphen"/>on; for it is not proper to call an outward Houſe a Congregation.</p>
+            <p>And in 1 <hi>Cor.</hi> 16. <hi>The Congregation in their Houſe.</hi>
+            </p>
+            <p>And <hi>Phebe</hi> was a <hi>Miniſter of the Congregation at Cenchrea.</hi> So ſhe was a Miniſter of a People, and not of an outward Houſe, which <hi>Paul</hi> commends, and ſent his Epiſtle by <hi>Phebe,</hi> a Miniſter, from <hi>Corinth</hi> to <hi>Rome;</hi> ſee <hi>Rom.</hi> 16.</p>
+            <p>And the Apoſtle <hi>Paul,</hi> when he writes to <hi>Philemon,</hi> and to the <hi>Congregation that was in his Houſe:</hi> So the outward Houſe was not the Congregation; ſee <hi>Phi<g ref="char:EOLhyphen"/>lemon.</hi>
+            </p>
+            <p>And <hi>John</hi> writes to the <hi>Seven Congregations in</hi> Aſta. Now he doth not write to the Seven Houſes that were in <hi>Aſia,</hi> and call them Churches; but he writes to the People, that were the Congregations or Churches.
+<pb n="19" facs="tcp:47370:10"/>And <hi>John</hi> ſaith ſeven times over, <hi>He that hath an Ear, let him hear what the Spirit ſaith to the Congregations;</hi> that is, the Congregations or Churches of People ga<g ref="char:EOLhyphen"/>thered together: For outward Houſes have no Ears to hear, which you call Churches: And therefore he doth not write to Houſes, and call them Congre<g ref="char:EOLhyphen"/>gations or Churches, as you may ſee in <hi>Rev.</hi> 1, 2. &amp; 3. Chapters, in the Old Tranflation.</p>
+            <p>And again, the Apoſtle <hi>Paul</hi> ſaith in <hi>Epheſ.</hi> 5. <hi>For the Husband is the Wife's Head, even as Chriſt is the Head of the Congregation; and the ſame is he that miniſtreth Salvation unto the Body; therefore as the Congregation is in ſubjection to Chriſt, &amp;c.</hi> Here the Apoſtle doth not ſay, an outward Houſe is in Subjection to Chriſt.</p>
+            <p>And <hi>Paul</hi> ſaith in <hi>Col.</hi> 1. <hi>He</hi> (to wit, Chriſt) <hi>is the Head of the Body, even of the Congregation, &amp;c.</hi> So the Apoſtle doth not ſay, Chriſt is the Head of an outward Houſe, but of the Congregation or Church, his People.</p>
+            <p>And therefore people, read the Scriptures, and ſearch and try; and bleſſed is he that reads and underſtands.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
